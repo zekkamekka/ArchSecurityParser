@@ -1,0 +1,14 @@
+C:\Users\Home\source\repos\ArchSecurityParser\ArchSecurityParser\bin\Debug\net10.0\ArchSecurityParser.exe
+C:\Users\Home\source\repos\ArchSecurityParser\ArchSecurityParser\bin\Debug\net10.0\ArchSecurityParser.deps.json
+C:\Users\Home\source\repos\ArchSecurityParser\ArchSecurityParser\bin\Debug\net10.0\ArchSecurityParser.runtimeconfig.json
+C:\Users\Home\source\repos\ArchSecurityParser\ArchSecurityParser\bin\Debug\net10.0\ArchSecurityParser.dll
+C:\Users\Home\source\repos\ArchSecurityParser\ArchSecurityParser\bin\Debug\net10.0\ArchSecurityParser.pdb
+C:\Users\Home\source\repos\ArchSecurityParser\ArchSecurityParser\obj\Debug\net10.0\ArchSecurityParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\ArchSecurityParser\ArchSecurityParser\obj\Debug\net10.0\ArchSecurityParser.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\ArchSecurityParser\ArchSecurityParser\obj\Debug\net10.0\ArchSecurityParser.AssemblyInfo.cs
+C:\Users\Home\source\repos\ArchSecurityParser\ArchSecurityParser\obj\Debug\net10.0\ArchSecurityParser.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\ArchSecurityParser\ArchSecurityParser\obj\Debug\net10.0\ArchSecurityParser.dll
+C:\Users\Home\source\repos\ArchSecurityParser\ArchSecurityParser\obj\Debug\net10.0\refint\ArchSecurityParser.dll
+C:\Users\Home\source\repos\ArchSecurityParser\ArchSecurityParser\obj\Debug\net10.0\ArchSecurityParser.pdb
+C:\Users\Home\source\repos\ArchSecurityParser\ArchSecurityParser\obj\Debug\net10.0\ArchSecurityParser.genruntimeconfig.cache
+C:\Users\Home\source\repos\ArchSecurityParser\ArchSecurityParser\obj\Debug\net10.0\ref\ArchSecurityParser.dll
