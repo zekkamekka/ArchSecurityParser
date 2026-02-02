@@ -2,7 +2,6 @@
 
 Парсер Arch Linux Security Bulletin на C# (.NET 10)
 
-Описание
 Этот проект выполняет парсинг официального security bulletin Arch Linux и сохраняет результат в структурированном формате JSON.
 Основной источник данных: https://security.archlinux.org/issues/all.json
 JSON содержит список пакетов, связанных CVE и версии с полями from, to, include_from, include_to.
